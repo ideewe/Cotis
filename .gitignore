@@ -123,3 +123,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ivenv/bin/activate.csh
+ivenv/bin/activate
+ivenv/bin/activate.fish
+ivenv/bin/easy_install
+ivenv/bin/easy_install-3.6
+ivenv/bin/pip
+ivenv/bin/pip3
+ivenv/bin/pip3.6
+ivenv/bin/python
+ivenv/bin/python3
+ivenv/pyvenv.cfg
+ivenv/bin/django-admin
+ivenv/bin/django-admin.py
+ivenv/bin/epylint
+ivenv/bin/isort
+ivenv/bin/pylint
+ivenv/bin/pyreverse
+ivenv/bin/sqlformat
+ivenv/bin/symilar
+.DS_Store
