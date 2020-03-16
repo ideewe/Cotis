@@ -7,10 +7,9 @@
 1. Login Seguro (Registro, Google o Facebook)
 2. Configuración de gastos Variables
 3. Configuración de gastos fijos
-    - General Ledger
-    - Profit and Loss Statement
-    - Balance Sheet
-    - Trial Balance
+    - Gastos Generales(Electricidad, Alquiler)
+    - Salario
+    - Licencias
 3. Cotización
 4. Multimoneda
 6. Dashboard
